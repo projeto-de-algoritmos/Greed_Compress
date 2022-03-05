@@ -18,7 +18,9 @@ Descreva os objetivos do seu projeto e como ele funciona.
 ## Screenshots
 Huffman Codes
 
-https://user-images.githubusercontent.com/51385738/156901272-64974df0-653b-4942-8a5e-606f8933a76f.jpg
+
+![Captura de tela 2022-03-05 190306](https://user-images.githubusercontent.com/51385738/156901380-af96b9f3-c80d-43bd-aa0b-a3456a06954d.jpg)
+
 
 
 ## Instalação 
