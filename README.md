@@ -13,7 +13,7 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona.
+A aplicação tem como objetivo utilizar o algoritmo de Huffman para comprimir arquivos com a extensão .txt para .bin e descomprimir o arquivo .bin para .txt. Reduzindo consideravelmente o tamanho do arquivo.
 
 ## Screenshots
 Huffman Codes
