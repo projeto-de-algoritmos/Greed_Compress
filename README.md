@@ -25,7 +25,7 @@ Huffman Codes
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: Heap, Os<br>
+**Framework**: Heap,tkinter, customtkinter <br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
