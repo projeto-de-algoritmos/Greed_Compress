@@ -13,7 +13,7 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona.
+A aplicação tem como objetivo utilizar o algoritmo de Huffman para comprimir arquivos com a extensão .txt para .bin e descomprimir o arquivo .bin para .txt. Reduzindo consideravelmente o tamanho do arquivo.
 
 ## Screenshots
 Huffman Codes
@@ -25,11 +25,15 @@ Huffman Codes
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: Heap, Os<br>
+**Bibliotecas**: Heap, tkinter, customtkinter, filedialog <br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para usar a aplicação, será necessário instalar duas bibliotecas, executando os seguintes comandos:
+- pip install tkinter
+- pip install customtkinter
+- pip install tkinter design
+- pip install filedialog
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
