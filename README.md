@@ -25,11 +25,15 @@ Huffman Codes
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: Heap,tkinter, customtkinter <br>
+**Bibliotecas**: Heap, tkinter, customtkinter, filedialog <br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para usar a aplicação, será necessário instalar duas bibliotecas, executando os seguintes comandos:
+- pip install tkinter
+- pip install customtkinter
+- pip install tkinter design
+- pip install filedialog
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
