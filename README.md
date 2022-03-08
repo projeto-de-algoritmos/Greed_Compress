@@ -46,7 +46,6 @@ Para usar a aplicação, será necessário instalar duas bibliotecas, executando
 - pip install customtkinter
 - pip install tkinter design
 - pip install filedialog
-
   ```
   
  * Executar o projeto
